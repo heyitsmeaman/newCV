@@ -1,0 +1,161 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  background-color: #CEE5D0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+
+
+}
+
+.bottom-container
+{
+  margin-top: 100px;
+background-color:#39A6A3;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+a{
+  color: #293B5F;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover
+{
+  color: #eaf6f6;
+}
+
+
+
+
+
+.downcloud
+{
+  position: absolute;
+  bottom: 300px;
+  left: 400px;
+
+}
+
+.footer-link
+{
+margin-left: 20px;
+
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-bottom: 0;
+  color: #5E8B7E;
+}
+
+hr {
+  border-color: #85a392;
+  border-style: dotted none none;
+  border-width: 9px;
+  width: 8%;
+  margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+h3
+{
+  color: #39A6A3;
+
+}
+h2
+{
+  color: #39A6A3;
+    margin-top: 100px;
+}
+
+
+
+.para
+{
+  font-size: 30px;
+  font-weight: normal;
+
+}
+
+#run
+{
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill-row
+{
+  width: 50%;
+margin: 100px auto;
+line-height: 2;
+text-align: left;
+
+}
+
+
+.skill-img
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+
+.TopContainer{
+ position: relative;/* ye karne se jo 2 cloud ki positioninghae vo iske relative hogi change
+                    as they are in the TopContainer. */
+padding-top: 100px;
+}
+
+
+
+.topcloud
+{
+position: absolute;
+top: 50px;
+right: 400px;
+}
+
+.btn {
+   background: #11CD4C;
+   background-image: -webkit-linear-gradient(top, #11CD4C, #11999E);
+   background-image: -moz-linear-gradient(top, #11CD4C, #11999E);
+   background-image: -ms-linear-gradient(top, #11CD4C, #11999E);
+   background-image: -o-linear-gradient(top, #11CD4C, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CD4C, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #DBE6FD;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 30px;
+   font-weight: 500;
+   padding: 10px;
+   text-shadow: 3px 0 31px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #000000 0;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
